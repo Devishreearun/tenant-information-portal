@@ -8,6 +8,7 @@
       <div class="panel panel-header">
     <h3>Admin Login</h3>
      </div>
+     </div>
       <div class="panel panel-body ">
 	  <br/>
     <div class="col-lg-10 col-md-10 col-sm-10">
